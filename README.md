@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**vanluwu/vanluwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Weather for September 11, 2024
+- **Date**: September 11, 2024
+- **Location**: Seoul
+## Weather Conditions
+- **average temperature**: 27°C
+- **Weather**: cloudy in sone places
+- **Humidity**: 59%
+- **Wind Speed**: 1 m/s
+- **Pressure**: 1,016 hPa
+- **Visibility**: 24km
+- **UV Index**: 6 
+  - High UV Index
+  - Avoid sun until 4:00 PM
+- **Precipitation**: 0mm
+- **Air Quality**:62(Moderate)
+## Additional Information
+- _Sunrise_: 6:10 AM
+- _Sunset_: 6:45 PM
+###i don't know
