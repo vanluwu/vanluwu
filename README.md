@@ -15,5 +15,5 @@
 - **Air Quality**:62(Moderate)
 ## Additional Information
 - _Sunrise_: 6:10 AM
-- _Sunset_: 6:45 PM
+- _Sunset_: 6:45 P
 
